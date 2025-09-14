@@ -10,6 +10,7 @@
 !.yarn/releases
 !.yarn/versions
 
+/nextjs-shadcn.zip
 # testing
 /coverage
 
